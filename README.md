@@ -1,4 +1,4 @@
-# 🕷️ Flyphobia Syndrome
+# 🪰 Flyphobia Syndrome
 
 AWS EC2 + Nginx static web deployment project.
 
